@@ -14,3 +14,14 @@ You can easily create your Kubernetes Cluster using Kubezy tools, or you can use
 02
 
   
+## x
+
+```javascript
+import Component from 'me'
+
+function App() {
+  return <Component />
+}
+```
+
+  
